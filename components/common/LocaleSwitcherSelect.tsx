@@ -29,7 +29,8 @@ export default function LocaleSwitcherSelect({ defaultValue, label }: Props) {
 
   return (
     <>
-    <select defaultValue={defaultValue} onChange={(e) => onSelectChange(e.target.value)} className="h-8 w-[80px] border-none bg-transparent focus:ring-0 focus:ring-offset-0">
+    <select defaultValue={defaultValue} onChange={(e) => onSelectChange(e.target.value)} className="form-select-sm" 
+    style={{ marginLeft: '1rem', width: '3rem', padding: '2px', fontSize: '.8rem' }}>
       <option value="" disabled>
         {label}
       </option>

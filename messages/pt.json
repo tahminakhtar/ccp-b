@@ -1,10 +1,262 @@
 {
-  "home": {
-    "title": "Bem-vindo ao CCPB",
-    "description": "Esta é a página inicial da Câmara de Comércio Portugal-Bangladesh."
+  "Common": {
+    "Home": "Início",
+    "About": "Sobre",
+    "Contact": "Contacto",
+    "Membership": "Membros",
+    "Members": "Membros",
+    "LanguageProgram": "Programa de Línguas",
+    "Gallery": "Galeria",
+    "News": "Notícias",
+    "Team": "Equipa",
+    "CCPB": "CCPB",
+    "ChamberofCommerce": "Câmara de Comércio",
+    "PortugalBangladesh": "Portugal-Bangladesh",
+    "Slogan": "Fortalecendo Laços Comerciais Entre Portugal e Bangladesh",
+    "ReadMore": "Ler Mais",
+    "PortugalOffice": "Escritório em Portugal",
+    "PAdd1": "Av. do Brasil 43, 6D, 1700-062",
+    "PAdd2": "Lisboa, Portugal",
+    "PPhone": "+351 217 582 658",
+    "BangladeshOffice": "Escritório em Bangladesh",
+    "BAdd1": "Gulshan, Dhaka - 1212",
+    "BPhone": "+880 1715-685492",
+    "FollowUs": "Siga-nos",
+    "Copyright": "Direitos de Autor",
+    "CCPBA": "Câmara de Comércio Portugal Bangladesh",
+    "AllRightsReserved": "Todos os Direitos Reservados",
+    "UsefulLinks": "Links úteis"
   },
-  "about": {
-    "title": "Sobre o CCPB",
-    "description": "About"
+  "HomePage": {
+    "Title": "Bem-vindo ao CCPB",
+    "WelcomeTo": "Bem-vindo ao",
+    "Description": "Esta é a página inicial da Câmara de Comércio Portugal-Bangladesh.",
+    "GetStarted": "Começar",
+    "Courasel": {
+      "0": "O nosso principal objetivo é melhorar as relações comerciais entre os dois países: Portugal e Bangladesh. Facilitamos e apoiamos as empresas no desenvolvimento do comércio e investimento, proporcionando acesso a parceiros potenciais e informações para alcançarem os seus objetivos."
+    },
+    "Featured": {
+      "0": {
+        "Title": "Experiência em Comércio",
+        "Desc": "Experiência na promoção da cooperação económica entre Portugal e a República Popular do Bangladesh, particularmente nos sectores privado e governamental."
+      },
+      "1": {
+        "Title": "Entusiasmo pelo Crescimento",
+        "Desc": "Partilha e troca de informações entre Portugal com o objetivo de elevar uma maior compreensão sobre os potenciais e oportunidades económicas de cada um."
+      },
+      "2": {
+        "Title": "Construir Pontes",
+        "Desc": "Organização de reuniões, workshops, almoços de negócios, seminários de edutainment, encontros para promover e apoiar medidas calculadas para beneficiar e proteger os interesses."
+      }
+    },
+    "WhoWeAre": {
+      "Title": "Quem Somos",
+      "Desc1": "A Câmara de Comércio Portugal-Bangladesh (CCPB) é uma organização comercial bilateral comprometida em promover fortes laços económicos e culturais entre Portugal e Bangladesh. Estabelecida como uma ponte entre as duas nações, trabalhamos para criar oportunidades para empresas, profissionais e investidores, facilitando o comércio, investimento e colaboração em diversos sectores. Como um centro reconhecido para interesses comerciais portugueses e bengaleses, a CCPB reúne uma comunidade vibrante de empresários, líderes da indústria e partes interessadas.",
+      "Desc2": "Dedicamo-nos a impulsionar o crescimento mútuo, proporcionando acesso a recursos-chave, construindo redes estratégicas e defendendo políticas que melhorem os negócios transfronteiriços. Na CCPB, acreditamos em capacitar os nossos membros com as ferramentas e conexões necessárias para prosperar nos mercados globais dinâmicos de hoje, promovendo também um espírito de cooperação e intercâmbio cultural que fortalece as relações bilaterais."
+    }
+  },
+  "AboutPage": {
+    "Title": "Sobre Nós",
+    "BreadcrumbParent": "Início",
+    "WhoWeAre": {
+      "Title": "Quem Somos",
+      "Desc1": "A Câmara de Comércio Portugal-Bangladesh (CCPB) é uma organização comercial bilateral comprometida em promover fortes laços económicos e culturais entre Portugal e Bangladesh. Estabelecida como uma ponte entre as duas nações, trabalhamos para criar oportunidades para empresas, profissionais e investidores, facilitando o comércio, investimento e colaboração em diversos sectores. Como um centro reconhecido para interesses comerciais portugueses e bengaleses, a CCPB reúne uma comunidade vibrante de empresários, líderes da indústria e partes interessadas.",
+      "Desc2": "Dedicamo-nos a impulsionar o crescimento mútuo, proporcionando acesso a recursos-chave, construindo redes estratégicas e defendendo políticas que melhorem os negócios transfronteiriços. Na CCPB, acreditamos em capacitar os nossos membros com as ferramentas e conexões necessárias para prosperar nos mercados globais dinâmicos de hoje, promovendo também um espírito de cooperação e intercâmbio cultural que fortalece as relações bilaterais."
+    },
+    "ParentPage": "Início",
+    "Home": "Início"
+  },
+  "TeamPage": {
+    "Title": "Equipa",
+    "Description": "Equipa"
+  },
+  "MembershipPage": {
+    "Title": "Membros",
+    "Desc0": "Junte-se à CCPB: Uma Comunidade de Oportunidade e Crescimento",
+    "Desc1": "A adesão à Câmara de Comércio Portugal-Bangladesh (CCPB) está aberta a:",
+    "Desc2": "Indivíduos: Profissionais portugueses e bengaleses envolvidos em atividades comerciais ligadas a Portugal e Bangladesh.",
+    "Desc3": "Entidades Legais: Empresas, organizações e empreendimentos registados em Portugal ou Bangladesh e envolvidos em negócios, manufatura ou comércio entre os dois países.",
+    "WhyBecomeMember": "Porquê Tornar-se Membro?",
+    "WhyBecomeMemberDesc": "Os nossos membros são a espinha dorsal da CCPB, e estamos comprometidos em proporcionar-lhes valor e apoio incomparáveis. Ao juntar-se à CCPB, ganha acesso a uma comunidade próspera, recursos exclusivos e oportunidades que impulsionam o seu negócio.",
+    "MembershipBenefits": "Vantagens da Adesão",
+    "MembershipBenefitTitle": "Vantagens da Adesão à Câmara de Comércio Portugal-Bangladesh (CCPB)",
+    "MembershipBenefitDesc": "A adesão à Câmara de Comércio CCPB oferece uma riqueza de vantagens para empresas que visam fortalecer a sua presença e conexões comerciais. Aqui estão os principais benefícios que os membros podem desfrutar",
+    "MembershipBenefitsSummary": "Junte-se à Câmara de Comércio CCPB hoje e desbloqueie oportunidades incomparáveis para o crescimento e sucesso do seu negócio.",
+    "Benefits": {
+      "0": {
+        "Title": "Networking e Eventos",
+        "Desc": {
+          "0": {
+            "Title": "Convites Exclusivos: ",
+            "Desc": "Participe em eventos comerciais organizados pela CCPB para fomentar conexões e explorar oportunidades."
+          },
+          "1": {
+            "Title": "Rede Expandida: ",
+            "Desc": "Construa relacionamentos valiosos com líderes da indústria, funcionários governamentais e empresas internacionais."
+          }
+        }
+      },
+      "1": {
+        "Title": "Informação e Visibilidade",
+        "Desc": {
+          "0": {
+            "Title": "Informações do Sector: ",
+            "Desc": "Obtenha acesso a informações críticas sobre indústrias específicas para se manter informado e competitivo."
+          },
+          "1": {
+            "Title": "Diretório de Membros: ",
+            "Desc": "Receba uma cópia impressa do Diretório de Membros, com contactos essenciais e perfis."
+          },
+          "2": {
+            "Title": "Exposição da Marca: ",
+            "Desc": "O logótipo da sua empresa será apresentado no website da CCPB e no Diretório de Membros, aumentando a visibilidade."
+          }
+        }
+      },
+      "2": {
+        "Title": "Facilitação e Apoio",
+        "Desc": {
+          "0": {
+            "Title": "Assistência com Vistos: ",
+            "Desc": "Receba apoio para vistos Schengen para membros que viajam para Portugal."
+          },
+          "1": {
+            "Title": "Facilitação de Negócios: ",
+            "Desc": "Participe em almoços de negócios com altos funcionários governamentais e ministros, facilitando o acesso a tomadores de decisão-chave."
+          },
+          "2": {
+            "Title": "Tratamento Prioritário: ",
+            "Desc": "Desfrute de consideração prioritária para empresas sediadas em Portugal que exploram oportunidades em Bangladesh."
+          }
+        }
+      },
+      "3": {
+        "Title": "Defesa e Desenvolvimento",
+        "Desc": {
+          "0": {
+            "Title": "Lobbying: ",
+            "Desc": "Beneficie dos esforços de lobbying da CCPB em nome dos seus membros para promover políticas e parcerias favoráveis."
+          },
+          "1": {
+            "Title": "Feiras e Eventos de Gala: ",
+            "Desc": "Expanda o seu alcance de mercado através de feiras e oportunidades de networking organizadas pela CCPB."
+          }
+        }
+      }
+    }
+  },
+  "MembersPage": {
+    "Title": "Membros",
+    "BreadcrumbParent": "Membros",
+    "Members": {
+      "0": {
+        "Name": "CARDINAL LANGUAGE PROGRAM",
+        "Organization": "Câmara de Comércio Portugal Bangladesh",
+        "Email": "cardinallanguageprogram@ccp-b.com"
+      },
+      "1": {
+        "Name": "LANDMARK PROPERTY EUROPE",
+        "Organization": "Cardinal Esbelto, Lda",
+        "Email": "support@landmarkpropertyeurope.com"
+      },
+      "2": {
+        "Name": "FASTSUCCESS LDA",
+        "Organization": "Fastsuccess - Lda",
+        "Email": "fastsuccesslda@gmail.com"
+      },
+      "3": {
+        "Name": "Cox Air Travels",
+        "Organization": "Cox Mart Unipessoal Lda",
+        "Email": "coxair23@gmail.com"
+      },
+      "4": {
+        "Name": "Cox Money Transfer",
+        "Organization": "Cox Mart Unipessoal Lda",
+        "Email": "coxair23@gmail.com"
+      },
+      "5": {
+        "Name": "Cox Mart Unipessoal Lda",
+        "Organization": "Cox Mart Unipessoal Lda",
+        "Email": "coxmart23@gmail.com"
+      }
+    }
+  },
+  "GalleryPage": {
+    "Title": "Galeria",
+    "Description": "Galeria",
+    "Galleries": {
+      "0": {
+        "Title": "Evento 1",
+        "Src": "/assets/img/gallery/g1.jpg",
+        "Desc": "Descrição do Evento 1"
+      },
+      "1": {
+        "Title": "Evento 2",
+        "Src": "/assets/img/gallery/g2.jpg",
+        "Desc": "Descrição do Evento 2"
+      },
+      "2": {
+        "Title": "Evento 3",
+        "Src": "/assets/img/gallery/g3.jpg",
+        "Desc": "Descrição do Evento 3"
+      },
+      "3": {
+        "Title": "Evento 4",
+        "Src": "/assets/img/gallery/g4.jpg",
+        "Desc": "Descrição do Evento 4"
+      },
+      "4": {
+        "Title": "Evento 5",
+        "Src": "/assets/img/gallery/g5.jpg",
+        "Desc": "Descrição do Evento 5"
+      },
+      "5": {
+        "Title": "Evento 6",
+        "Src": "/assets/img/gallery/g6.jpg",
+        "Desc": "Descrição do Evento 6"
+      },
+      "6": {
+        "Title": "Evento 7",
+        "Src": "/assets/img/gallery/g7.jpg",
+        "Desc": "Descrição do Evento 7"
+      }
+    }
+  },
+  "NewsPage": {
+    "Title": "Notícias",
+    "Description": "Notícias",
+    "NewsList": {
+      "0": {
+        "Title": "Título da Notícia 1",
+        "Date": "2022-01-01",
+        "Source": "Bangladesh Times",
+        "Comments": 12,
+        "Category": "Negócios",
+        "ImageSrc": "/assets/img/blog/blog-post-1.webp",
+        "Content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem nesciunt sint accusamus rem, expedita sunt eaque necessitatibus maxime officiis libero eligendi tempore quas ullam assumenda distinctio tenetur minus quibusdam cumque! ..."
+      },
+      "1": {
+        "Title": "Título da Notícia 2",
+        "Date": "2022-01-02",
+        "Source": "Portuguese Times",
+        "Comments": 8,
+        "Category": "Economia",
+        "ImageSrc": "/assets/img/blog/blog-post-2.webp",
+        "Content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem nesciunt sint accusamus rem, expedita sunt eaque necessitatibus maxime officiis libero eligendi tempore quas ullam assumenda distinctio tenetur minus quibusdam cumque! ..."
+      }
+    }
+  },
+  "NewsDetailsPage": {
+    "Title": "Detalhes da Notícia",
+    "BreadcrumbParent": "Notícias",
+    "NewsDetails": {
+      "Title": "Título da Notícia 1",
+      "Date": "2022-01-01",
+      "Source": "Bangladesh Times",
+      "Comments": 12,
+      "Category": "Negócios",
+      "ImageSrc": "/assets/img/blog/blog-post-1.webp",
+      "Content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem nesciunt sint accusamus rem, expedita sunt eaque necessitatibus maxime officiis libero eligendi tempore quas ullam assumenda distinctio tenetur minus quibusdam cumque! Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem nesciunt sint accusamus rem, expedita sunt eaque necessitatibus maxime officiis libero eligendi tempore quas ullam assumenda distinctio tenetur minus quibusdam cumque!</p>"
+    }
   }
 }

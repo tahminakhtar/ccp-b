@@ -1,10 +1,263 @@
 {
-  "home": {
-    "title": "Welcome to CCPB",
-    "description": "This is the homepage of the Chamber of Commerce Portugal-Bangladesh."
+  "Common": {
+    "Home": "Home",
+    "About": "About",
+    "Contact": "Contact",
+    "Membership": "Membership",
+    "Members": "Members",
+    "LanguageProgram": "Language Program",
+    "Gallery": "Gallery",
+    "News": "News",
+    "Team": "Team",
+    "CCPB": "CCPB",
+    "ChamberofCommerce": "Chamber of Commerce",
+    "PortugalBangladesh": "Portugal-Bangladesh",
+    "Slogan": "Strengthening Business Ties Between Portugal and Bangladesh",
+    "ReadMore": "Read More",
+    "PortugalOffice": "Portugal Office",
+    "PAdd1":"Av.do Brasil 43, 6D, 1700-062",
+    "PAdd2":"Lisbon, Portugal",
+    "PPhone":"+351 217 582 658",
+    "BangladeshOffice": "Bangladesh Office",
+    "BAdd1":"Gulshan, Dhaka - 1212",
+    "BPhone": "+880 1715-685492",
+    "FollowUs": "Follow Us",
+    "Copyright":"Copyright ",
+    "CCPBA":"Chamber of Commerce Portugal Bangladesh ",
+    "AllRightsReserved": "All Rights Reserved",
+    "UsefulLinks": "Useful Links"
   },
-  "about": {
-    "title": "About Us",
-    "description": "About"
+  "HomePage": {
+    "Title": "Welcome to CCPB",
+    "WelcomeTo": "Welcome to",
+    "Description": "This is the homepage of the Chamber of Commerce Portugal-Bangladesh.",
+    "GetStarted": "Get Started",
+    "Courasel": {
+      "0": "Our main aim is to enhance trade relation between the two countries: Portugal and Bangladesh. We facilitate and support companies to develop trade and investment and provide access to prospective partners and information to achieve their goal."
+    },
+    "Featured": {
+      "0":{
+        "Title": "Expertise in Trade",
+        "Desc": "Expertise on Promoting economic cooperation between the Portugal and the People’s Republic of Bangladesh, articularly in the private and government sector."
+      },
+      "1":{
+        "Title": "Enthusiasm for Growth",
+        "Desc": "Sharing and exchange of information between the Portugal with a view to elevate greater understanding about each other’s economic potentials and opportunities."
+      },
+      "2":{
+        "Title": "Building Bridges",
+        "Desc": "Organizing meetings, workshops, business luncheon, edutainment seminars, get together to promote and support measures calculated to benefit and protect the interests."
+      }
+    },
+    "WhoWeAre":{
+      "Title":"Who We Are",
+      "Desc1":"The Chamber of Commerce Portugal-Bangladesh (CCPB) is a bilateral trade organization committed to fostering strong economic and cultural ties between Portugal and Bangladesh. Established as a bridge between the two nations, we work to create opportunities for businesses, professionals, and investors by facilitating trade, investment, and collaboration across diverse sectors. As a recognized hub for Portuguese and Bangladeshi business interests, CCPB brings together a vibrant community of entrepreneurs, industry leaders, and stakeholders.",
+      "Desc2":"We are dedicated to driving mutual growth by providing access to key resources, building strategic networks, and advocating for policies that enhance cross-border business. At CCPB, we believe in empowering our members with the tools and connections they need to thrive in today’s dynamic global markets, while also promoting a spirit of cooperation and cultural exchange that strengthens bilateral relations."
+    }    
+  },
+  "AboutPage": {
+    "Title": "About Us",
+    "BreadcrumbParent": "Home",
+    "WhoWeAre":{
+      "Title":"Who We Are",
+      "Desc1":"The Chamber of Commerce Portugal-Bangladesh (CCPB) is a bilateral trade organization committed to fostering strong economic and cultural ties between Portugal and Bangladesh. Established as a bridge between the two nations, we work to create opportunities for businesses, professionals, and investors by facilitating trade, investment, and collaboration across diverse sectors. As a recognized hub for Portuguese and Bangladeshi business interests, CCPB brings together a vibrant community of entrepreneurs, industry leaders, and stakeholders.",
+      "Desc2":"We are dedicated to driving mutual growth by providing access to key resources, building strategic networks, and advocating for policies that enhance cross-border business. At CCPB, we believe in empowering our members with the tools and connections they need to thrive in today’s dynamic global markets, while also promoting a spirit of cooperation and cultural exchange that strengthens bilateral relations."
+    },
+    "ParentPage": "Home",
+    "Home": "Home"
+  },
+  "TeamPage": {
+    "Title": "Team",
+    "Description": "Team"
+  },
+  "MembershipPage": {
+    "Title": "Membership",
+    "Desc0":"Join CCPB: A Community of Opportunity and Growth",
+    "Desc1":"Membership with the Chamber of Commerce Portugal-Bangladesh (CCPB) is open to:",
+    "Desc2":"Individuals: Portuguese and Bangladeshi professionals engaged in business activities linked to Portugal and Bangladesh.",
+    "Desc3": "Legal Entities: Companies, organizations, and enterprises registered in either Portugal or Bangladesh and involved in business, manufacturing, or trade between the two countries.",
+    "WhyBecomeMember": "Why Become a Member?",
+    "WhyBecomeMemberDesc": "Our members are the backbone of CCPB, and we are committed to providing them with unparalleled value and support. By joining CCPB, you gain access to a thriving community, exclusive resources, and opportunities that propel your business forward.",
+    "MembershipBenefits": "Membership Benefits",
+    "MembershipBenefitTitle" : "Membership Benefits of the Portugal-Bangladesh Chamber of Commerce (CCPB)",
+    "MembershipBenefitDesc": "Joining the CCPB Chamber of Commerce offers a wealth of advantages for companies aiming to strengthen their business presence and connections. Here are the key benefits members can enjoy",
+    "MembershipBenefitsSummary": "Join the CCPB Chamber of Commerce today and unlock unparalleled opportunities for business growth and success.",
+    "Benefits": {
+      "0": {
+        "Title": "Networking and Events",
+        "Desc": {
+          "0":{
+            "Title": "Exclusive Invitations: ",
+            "Desc": "Attend CCPB-hosted business gs to foster connections and explore opportunities."
+          },
+          "1":{ 
+            "Title": "Expanded Network: ",
+            "Desc": "Build valuable relationships with industry leaders, government officials, and international businesses."
+          }
+        }
+      },
+      "1": {
+        "Title": "Information and Visibility",
+        "Desc": {
+          "0":{
+            "Title": "Sector Insights: ",
+            "Desc": "Gain access to critical information about specific industries to stay informed and competitive."
+          },
+          "1":{
+            "Title": "Member Directory: ",
+            "Desc": "Receive a printed copy of the Member’s Directory, featuring essential contacts and profiles."
+          },
+          "2":{
+            "Title": "Brand Exposure: ",
+            "Desc": "Your company logo will be featured on the CCPB website and in the Member’s Directory, enhancing visibility."
+          }
+        }
+      },
+      "2": {
+        "Title": "Facilitation and Support",
+        "Desc": {
+          "0":{
+            "Title": "Visa Assistance: ",
+            "Desc": "Receive Schengen visa support for members traveling to Portugal."
+          },
+          "1":{
+            "Title": "Business Facilitation: ",
+            "Desc": "Participate in business luncheons with high-ranking government officials and ministers, easing access to key decision-makers."
+          },
+          "2":{
+            "Title": "Priority Treatment: ",
+            "Desc": "Enjoy priority consideration for Portugal-based companies exploring opportunities in Bangladesh."
+          }
+        }
+      },
+      "3": {
+        "Title": "Advocacy and Development",
+        "Desc": {
+          "0":{
+            "Title": "Lobbying: ",
+            "Desc": "Benefit from CCPB’s lobbying efforts on behalf of its members to promote favorable policies and partnerships."
+          },
+          "1":{
+            "Title": "Trade Shows and Gala Events: ",
+            "Desc": "Expand your market reach through trade shows and networking opportunities organized by CCPB."
+          }
+        }
+      }
+    }
+  },
+  "MembersPage": {
+    "Title": "Members",
+    "BreadcrumbParent": "Membership",
+    "Members": {
+      "0": {
+        "Name": "CARDINAL LANGUAGE PROGRAM",
+        "Organization": "Portugal Bangladesh Chamber of Commerce",
+        "Email": "cardinallanguageprogram@ccp-b.com"
+      },
+      "1": {
+        "Name": "LANDMARK PROPERTY EUROPE",
+        "Organization": "Cardinal Esbelto, Lda",
+        "Email": "support@landmarkpropertyeurope.com"
+      },
+      "2": {
+        "Name": "FASTSUCCESS LDA",
+        "Organization": "Fastsuccess - Lda",
+        "Email": "fastsuccesslda@gmail.com"
+      },
+      "3": {
+        "Name": "Cox Air Travels",
+        "Organization": "Cox Mart Unipessoal Lda",
+        "Email": "coxair23@gmail.com"
+      },
+      "4": {
+        "Name": "Cox Money Transfer",
+        "Organization": "Cox Mart Unipessoal Lda",
+        "Email": "coxair23@gmail.com"
+      },
+      "5": {
+        "Name": "Cox Mart Unipessoal Lda",
+        "Organization": "Cox Mart Unipessoal Lda",
+        "Email": "coxmart23@gmail.com"
+      }
+    }
+  },
+  "GalleryPage": {
+    "Title": "Gallery",
+    "Description": "Gallery",
+    "Galleries": {
+      "0": {
+        "Title": "Event 1",
+        "Src": "/assets/img/gallery/g1.jpg",
+        "Desc": "Event 1 Description"
+      },
+      "1": {
+        "Title": "Event 2",
+        "Src": "/assets/img/gallery/g2.jpg",
+        "Desc": "Event 2 Description"
+      },
+      "2": {
+        "Title": "Event 3",
+        "Src": "/assets/img/gallery/g3.jpg",
+        "Desc": "Event 3 Description"
+      },
+      "3": {
+        "Title": "Event 4",
+        "Src": "/assets/img/gallery/g4.jpg",
+        "Desc": "Event 4 Description"
+      },
+      "4": {
+        "Title": "Event 5",
+        "Src": "/assets/img/gallery/g5.jpg",
+        "Desc": "Event 5 Description"
+      },
+      "5": {
+        "Title": "Event 6",
+        "Src": "/assets/img/gallery/g6.jpg",
+        "Desc": "Event 6 Description"
+      },
+      "6": {
+        "Title": "Event 7",
+        "Src": "/assets/img/gallery/g7.jpg",
+        "Desc": "Event 7 Description"
+      }
+
+    }
+  },
+  "NewsPage":{
+    "Title":"NEWS",
+    "Description":"News",
+    "NewsList": {
+      "0": {
+        "Title": "Portugal-Bangladesh Chamber of Commerce inaugurated",
+        "Date": "2022-01-01",
+        "Source": "Bangladesh Times",
+        "Comments": "12",
+        "Category": "Business",
+        "ImageSrc": "/assets/img/blog/blog-post-1.webp",
+        "Content": "A grand inauguration ceremony of the newly formed Portugal-Bangladesh Chamber of Commerce was held in Lisbon, the capital of Portugal. On Wednesday ..."
+      },
+      "1": {
+        "Title": "News Title 2",
+        "Date": "2022-01-02",
+        "Source": "Portuguese Times",
+        "Comments": "8",
+        "Category": "Economy",
+        "ImageSrc": "/assets/img/blog/blog-post-2.webp",
+        "Content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem nesciunt sint accusamus rem, expedita sunt eaque necessitatibus maxime officiis libero eligendi tempore quas ullam assumenda distinctio tenetur minus quibusdam cumque! ..."
+      }
+    }
+  },
+  "NewsDetailsPage": {
+    "Title": "News Details",
+    "BreadcrumbParent": "News",
+    "NewsDetails": {
+      "Title": "News Title 1",
+      "Date": "2022-01-01",
+      "Source": "Bangladesh Times",
+      "Comments": "12",
+      "Category": "Business",
+      "ImageSrc": "/assets/img/blog/blog-post-1.webp",
+      "Content": "The Inaugural Ceremony of the Portugal-Bangladesh Chamber of Commerce Held in Lisbon The grand inaugural ceremony of the newly formed Portugal-Bangladesh Chamber of Commerce was held in Lisbon, the capital of Portugal. The event took place (November 27) at 4:00 PM local time. In the opening speech, Abdul Ahad Salman, the Secretary-General of the Portugal-Bangladesh Chamber of Commerce, extended a warm welcome to the attendees. In his closing remarks, the President of the Chamber, Mohammad Jiban, thanked all the guests and urged them to continue their support."
+    }
   }
 }
